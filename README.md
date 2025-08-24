@@ -68,12 +68,5 @@ desafio-seguranca-app/
     └── .gitkeep
 ```
 
-## 🧭 Roteiro sugerido para o desafio
-1. Executar a API e validar endpoints via `/docs` (Swagger);
-2. Abrir o frontend e visualizar o grafo;
-3. Simular cenários: entradas malformadas, parâmetros inesperados, rate limit inexistente, etc.;
-4. Documentar casos de teste e evidências (prints);
-5. Criar o repositório público e enviar o link na plataforma.
-
 ## 📜 Licença
 MIT – uso livre para fins educacionais.
